@@ -1,2 +1,2 @@
-"# Tugas Kelompok" 
-"Copyright 2025" 
+# Tugas Kelompok
+Copyright 2025 
